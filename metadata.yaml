@@ -5,7 +5,12 @@ contributor:
     agent_name: Aldred, Thomas
     gutenberg_agent_id: '53368'
     url: http://www.gutenberg.org/2009/agents/53368
+covers:
+- cover_type: archival
+  image_path: 65475-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65475#A-List-of-English-American-Sequel-Stories
 gutenberg_issued: '2021-05-31'
 gutenberg_type: Text
 identifiers:
